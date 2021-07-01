@@ -1,0 +1,218 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'Gilroy Thin';
+    src: url('../fonts/');
+    src: url('../fonts/?#iefix') format('embedded-opentype'),
+    /*url('../fonts/Gilroy-Thin.woff') format('woff'),*/
+    url('../fonts/Gilroy-Thin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+
+html {
+    font-family: 'Gilroy Thin';
+}
+.promo {
+    height: 800px;
+    background: url('../img/parrot/43.jpg') center center/cover no-repeat;
+    padding: 39px 0 62px 0;
+}
+.title_1 {
+    padding: 0;
+    color: #f9bf3b;
+    font-family: Roboto, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 41px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    /* Text style for "С, оздать" */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+.logo {
+    color: white;
+    font-size: 88px;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: center;
+    margin-top: 400px;
+    text-transform: uppercase;
+    /*-webkit-text-stroke: 0.2px black;*/
+}
+
+.china {
+    height: 604px;
+    background-color: #009999;
+    padding: 85px 0 75px 0;
+}
+.china_tx {
+    color:white;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.china_img {
+    margin-top: -80px;
+    padding: 0; /* Убираем поля */
+    margin-left: 400px;
+    height: 420px;
+    width: 266px;
+    border-radius: 10px;
+}
+
+
+
+.alex {
+    height: 604px;
+    background-color: #1240AB;
+    padding: 85px 0 75px 0;
+}
+.alex_tx {
+    color:white;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.alex_img {
+    margin-top: -80px;
+    padding: 0; /* Убираем поля */
+    margin-left: 400px;
+    height: 420px;
+    width: 266px;
+    border-radius: 10px;
+}
+
+.necklace {
+    height: 604px;
+    background-color: #6A48D7;
+    padding: 85px 0 75px 0;
+}
+
+.necklace_tx {
+    color:white;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.necklace_img {
+    margin-top: -80px;
+    padding: 0; /* Убираем поля */
+    margin-left: 400px;
+    height: 420px;
+    width: 266px;
+    border-radius: 10px;
+}
+
+.pinkbreasted {
+    height: 604px;
+    background-color: #876ED7;
+    padding: 85px 0 75px 0;
+}
+
+.pinkbreasted_tx {
+    color:white;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.pinkbreasted_img {
+    margin-top: -80px;
+    padding: 0; /* Убираем поля */
+    margin-left: 400px;
+    height: 420px;
+    width: 266px;
+    border-radius: 10px;
+}
+
+.plumhead {
+    height: 604px;
+    background-color: #6C8CD5;
+    padding: 85px 0 75px 0;
+}
+.plumhead_tx {
+    color:white;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.plumhead_img {
+    margin-top: -80px;
+    padding: 0; /* Убираем поля */
+    margin-left: 400px;
+    height: 420px;
+    width: 266px;
+    border-radius: 10px;
+}
+
+.kakariki {
+    height: 604px;
+    background-color: #5CCCCC;
+    padding: 85px 0 75px 0;
+}
+.kakariki_tx {
+    color:white;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.kakariki_img {
+    margin-top: -80px;
+    padding: 0; /* Убираем поля */
+    margin-left: 400px;
+    height: 420px;
+    width: 266px;
+    border-radius: 10px;
+}
+
+.jaco {
+    height: 604px;
+    background-color: #2A4480;
+    padding: 85px 0 75px 0;
+}
+.jaco_tx {
+    color:white;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.jaco_img {
+    margin-top: -80px;
+    padding: 0; /* Убираем поля */
+    margin-left: 400px;
+    height: 420px;
+    width: 266px;
+    border-radius: 10px;
+}
+.kongo {
+    height: 604px;
+    background-color: #006363;
+    padding: 85px 0 75px 0;
+}
+.kongo_tx {
+    color:white;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.kongo_img {
+    margin-top: -80px;
+    padding: 0; /* Убираем поля */
+    margin-left: 400px;
+    height: 420px;
+    width: 266px;
+    border-radius: 10px;
+}
+
